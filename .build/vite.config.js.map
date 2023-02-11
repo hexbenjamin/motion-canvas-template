@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../vite.config.ts"],
+  "sourcesContent": ["export default {\n\tserver: {\n\t\thost: '0.0.0.0',\n\t\thmr: {\n\t\t\tport: 443,\n\t\t}\n\t}\n}"],
+  "mappings": ";;;;;;;AAAA;AAAA;AAAA;AAAA,IAAO,sBAAQ;AAAA,EACd,QAAQ;AAAA,IACP,MAAM;AAAA,IACN,KAAK;AAAA,MACJ,MAAM;AAAA;AAAA;AAAA;",
+  "names": []
+}
